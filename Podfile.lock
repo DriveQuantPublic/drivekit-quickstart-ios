@@ -1,24 +1,24 @@
 PODS:
-  - DriveKitBeaconUtils (2.26.0):
-    - DriveKitCore (= 2.26.0)
-  - DriveKitCommonUI (2.26.0):
-    - DriveKitCore (= 2.26.0)
-  - DriveKitCore (2.26.0):
-    - DriveKitNetworking (= 2.26.0)
-  - DriveKitDBTripAccess (2.26.0):
-    - DriveKitCore (= 2.26.0)
-  - DriveKitDBVehicleAccess (2.26.0):
-    - DriveKitBeaconUtils (= 2.26.0)
-    - DriveKitCore (= 2.26.0)
-  - DriveKitNetworking (2.26.0)
-  - DriveKitPermissionsUtilsUI (2.26.0):
-    - DriveKitCommonUI (= 2.26.0)
-    - DriveKitCore (= 2.26.0)
-  - DriveKitTripAnalysis (2.26.0):
-    - DriveKitBeaconUtils (= 2.26.0)
-    - DriveKitCore (= 2.26.0)
-    - DriveKitDBTripAccess (= 2.26.0)
-    - DriveKitDBVehicleAccess (= 2.26.0)
+  - DriveKitBeaconUtils (3.0.0):
+    - DriveKitCore (= 3.0.0)
+  - DriveKitCommonUI (3.0.0):
+    - DriveKitCore (= 3.0.0)
+  - DriveKitCore (3.0.0):
+    - DriveKitNetworking (= 3.0.0)
+  - DriveKitDBTripAccess (3.0.0):
+    - DriveKitCore (= 3.0.0)
+  - DriveKitDBVehicleAccess (3.0.0):
+    - DriveKitBeaconUtils (= 3.0.0)
+    - DriveKitCore (= 3.0.0)
+  - DriveKitNetworking (3.0.0)
+  - DriveKitPermissionsUtilsUI (3.0.0):
+    - DriveKitCommonUI (= 3.0.0)
+    - DriveKitCore (= 3.0.0)
+  - DriveKitTripAnalysis (3.0.0):
+    - DriveKitBeaconUtils (= 3.0.0)
+    - DriveKitCore (= 3.0.0)
+    - DriveKitDBTripAccess (= 3.0.0)
+    - DriveKitDBVehicleAccess (= 3.0.0)
 
 DEPENDENCIES:
   - DriveKitPermissionsUtilsUI
@@ -36,14 +36,14 @@ SPEC REPOS:
     - DriveKitTripAnalysis
 
 SPEC CHECKSUMS:
-  DriveKitBeaconUtils: aa3d0ea21c4631a5cbefc3d605b32cc073a52ac9
-  DriveKitCommonUI: f08d7b6882ccc36335af2cd4fec3709a11210165
-  DriveKitCore: 1f690cd498d3d6d126fb51ecb71c762a168ba1c5
-  DriveKitDBTripAccess: fc1ec2c02aa49f88b9b049b43e32cadbc47fcdc5
-  DriveKitDBVehicleAccess: dd8d221399b23144cf559178ba429912c95df155
-  DriveKitNetworking: cd7e06d23b2c7a607fb6646f2f6b80b50c23361e
-  DriveKitPermissionsUtilsUI: 077a23eda0dd128e7b4fb09af3c55d64e338a9e4
-  DriveKitTripAnalysis: 1d707626e06a537de03a44d7dc6a77db795c374c
+  DriveKitBeaconUtils: d1c62da35b26e7a5f799f0d92a0efc8a8ac6fccf
+  DriveKitCommonUI: ed7494dc8b5e955c90eb301212cfe2957557a738
+  DriveKitCore: d0ab36b18627fbd4ca2c4fa7cd7e7c2a2628e6ae
+  DriveKitDBTripAccess: 0cc889f4fbc71c4026e2ef7962581d16b1158231
+  DriveKitDBVehicleAccess: 3c2fe2c6d954474d5057c82c48b7a4f5d1bf2a48
+  DriveKitNetworking: e1a9a8a1e07b2b973c34d24bfdd8cd555e55fb97
+  DriveKitPermissionsUtilsUI: 0b92f03b1fb415da11aa502b054fc6cbf0f476e9
+  DriveKitTripAnalysis: 0afc8fb834452c5347dfcf694bdef5dd2e8fb294
 
 PODFILE CHECKSUM: 2445b8ba5221b23f07fa51d89f3c7a4c166c0783
 
