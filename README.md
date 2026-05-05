@@ -1,5 +1,12 @@
 # Introduction
 
+## ⛔️ DEPRECATED
+This repository has been deprecated in favor of the **SPM version**.
+Find the new version here:
+- https://github.com/DriveQuantPublic/drivekit-quickstart-spm-ios
+
+<hr />
+
 The iOS quickstart is a simple app that shows you how to integrate the **DriveKit SDK** with the minimum amount of code.
 
 ![Illustration](doc/illustration.png)
